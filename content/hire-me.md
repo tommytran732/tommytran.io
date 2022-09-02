@@ -12,6 +12,6 @@ I will not be posting my full resume here for privacy reasons, but here are the 
 - **Red Hat Certified System Administrator** | ID: 200-058-41
 - **Linux Foundation Certified System Administrator** | ID: LFCS-2000-002661-01
 - **SUSE Certified Administrator for SUSE Linux Enterprise 15** | ID: 2107 (2021-04-24)
-- **CompTIA Linux+** (QYRCZ8BM0HE11LK)
-- **CompTIA ITF+** (MJ29K56PQC44QWWG)
-- **Linux Professional Institute Linux Essentials** (ju2ycbghb9)
+- **CompTIA Linux+** | ID: QYRCZ8BM0HE11LK
+- **CompTIA ITF+** | ID: MJ29K56PQC44QWWG
+- **Linux Professional Institute Linux Essentials** | ID: ju2ycbghb9
