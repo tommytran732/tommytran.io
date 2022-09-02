@@ -1,0 +1,143 @@
+baseURL: "https://tommytran.io"
+title: Tommy Tran
+theme: WonderMod
+copyright: '©Thien Tran 2021-2022'
+enableRobotsTXT: true
+#enableGitInfo: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  author: Tommy
+  # author: ["Me", "You"] # multiple authors
+  description: System Administrator and Technical Writer
+  keywords: [TommyTran732]
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+  images: ["/cortana.png"]
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  ShowToc: true
+  ShowRssButtonInSectionTermList: false
+  ShowCodeCopyButtons: true
+
+  assets:
+    disableHLJS: true
+    disableFingerprinting: false
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon/safari-pinned-tab.svg"
+
+  label:
+    text: "TommyTran.io"
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Tommy Tran
+    subtitle: "System Administrator and Technical Writer"
+    buttons:
+      - name: About
+        url: about
+      - name: Contact
+        url: contact
+      - name: PGP Key
+        url: gpg.asc
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/tommytran732"
+    - name: gitea
+      url: "https://git.tommytran.io/tomster"
+    - name: matrix
+      url: "https://matrix.to/#/@tommy:arcticfoxes.net"
+    - name: twitter
+      url: "https://twitter.com/tommytran732"
+    - name: email
+      url: "mailto:contact@tommytran.io"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCxm1CqMnCCj5byfXyb8C6_g"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  editPost:
+    URL: "https://github.com/tommytran732/tommytran.io/blob/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "summary"]
+
+#Enabling Search
+outputs:
+    home:
+        - HTML
+        - JSON # is necessary
+
+# Enable Chroma
+markup:
+    highlight:
+        style: dracula
+        lineNos: false
+        noClasses: false
+        guessSyntax: true
+
+menu:
+  main:
+    - identifier: Blog
+      name: Blog
+      url: https://privsec.dev
+      weight: 10
+    - identifier: Projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: Services
+      name: Services
+      url: /services/
+      weight: 30
+    - identifier: Hire Me!
+      name: Hire Me!
+      url: /hire-me/
+      weight: 40
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: true
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: true
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
