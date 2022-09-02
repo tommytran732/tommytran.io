@@ -3,7 +3,7 @@ title: Tommy Tran
 theme: WonderMod
 copyright: '©Thien Tran 2021-2022'
 enableRobotsTXT: true
-#enableGitInfo: true
+enableGitInfo: true
 
 minify:
   disableXML: true
