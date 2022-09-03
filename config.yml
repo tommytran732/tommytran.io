@@ -48,7 +48,7 @@ params:
         url: about
       - name: Contact
         url: contact
-      - name: PGP Key
+      - name: PGP
         url: gpg.asc
 
   socialIcons:
