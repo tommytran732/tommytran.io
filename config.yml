@@ -110,14 +110,18 @@ menu:
       name: Projects
       url: /projects/
       weight: 20
+    - identifier: Packages
+      name: Packages
+      url: /packages/
+      weight: 30
     - identifier: Services
       name: Services
       url: /services/
-      weight: 30
+      weight: 40
     - identifier: Hire Me!
       name: Hire Me!
       url: /hire-me/
-      weight: 40
+      weight: 50
 
 privacy:
   disqus:
