@@ -32,3 +32,13 @@ Over time, I have been adding more security/privacy related settings by default 
 This is a Docker-Compose setup to quickly deploy the [Synapse](https://matrix.org/docs/projects/server/synapse), [Element](https://matrix.org/docs/projects/client/element), [Mjolnir](https://github.com/matrix-org/mjolnir), [Pantalaimon](https://matrix.org/docs/projects/other/pantalaimon), and an NGINX reverse proxy with LetsEncrypt support . WIth some configuration, you will have a Matrix Server, a Web Client, and a moderation bot that can communicate with you end to end encrypted.
 
 Right now, the installation procedure is still a bit cumbersome due to how much configuration you need to do for each component of the stack. I plan to streamline this a bit more in the future. I am also planning to provide a hardened Docker image of Synapse and bundle in the [Mjolnir Synapse module](https://github.com/matrix-org/mjolnir/blob/main/docs/synapse_module.md) in the near future.
+
+## Fedora CoreOS Ignition Files
+
+![Fedora CoreOS](/images/fedora-coreos.png)
+
+These are sample [Butane/Ingition configuration files](https://github.com/tommytran732/Fedora-CoreOS-Ignition) that you can adapt to quickly deploy a Fedora CoreOS server with the containers of your choice.
+
+Out of the box, you will have a set of hardened boot parameters, sysctl settings, along with a set of kernel module blacklist from Whonix's [security-misc](https://github.com/Kicksecure/security-misc/blob/master/etc/modprobe.d/30_security-misc.conf). The configurations will also give you a basic setup with Firewalld, Fail2ban, and seboolean to tighten down security.
+
+I use these same configurations on my production servers.
