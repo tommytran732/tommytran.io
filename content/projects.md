@@ -39,6 +39,6 @@ Right now, the installation procedure is still a bit cumbersome due to how much 
 
 These are sample [Butane/Ingition configuration files](https://github.com/tommytran732/Fedora-CoreOS-Ignition) that you can adapt to quickly deploy a Fedora CoreOS server with the containers of your choice.
 
-Out of the box, you will have a set of hardened boot parameters, sysctl settings, along with a set of kernel module blacklist from Whonix's [security-misc](https://github.com/Kicksecure/security-misc/blob/master/etc/modprobe.d/30_security-misc.conf). The configurations will also give you a basic setup with Firewalld, Fail2ban, and seboolean to tighten down security.
+Out of the box, you will have a set of hardened boot parameters, sysctl settings, along with a set of kernel module blacklist from Whonix's [security-misc](https://github.com/Kicksecure/security-misc/blob/master/etc/modprobe.d/30_security-misc.conf). The configurations will also give you a basic setup with Firewalld, Fail2ban, seboolean, and NTS to tighten down security.
 
 I use these same configurations on my production servers.
