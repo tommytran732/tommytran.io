@@ -14,4 +14,14 @@ If you prefer to reach out to me via email, my address is contact@tommytran.io. 
 - tommy@privsec.dev
 - tommy@arcticfoxes.net
 
+I am available on Twitter as well:
+
+- [@TommyTran732](https://twitter.com/tommytran732)
+- [@PrivSec_Dev](https://twitter.com/privsec_dev)
+
+My Git accounts:
+- [GitHub](https://github.com/tommytran732)
+- [GitLab](https://gitlab.com/tommytran732)
+- [Gitea](https://git.tommytran.io/tomster)
+
 Please by wary of anyone claiming to be me or using the handle "TommyTran732" reaching out to you. Chances are, they are an impersonator. You can always contact me via Matrix or Email for identity verification.
