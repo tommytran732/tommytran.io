@@ -1,5 +1,5 @@
 baseURL: "https://tommytran.io"
-title: Tommy Tran
+title: Tommy Tran - System Administrator and Technical Writer
 theme: WonderMod
 copyright: '©Thien Tran 2021-2022'
 enableRobotsTXT: true
@@ -36,7 +36,7 @@ params:
     safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
-    text: "TommyTran.io"
+    text: "Tommy Tran"
 
   # profile-mode
   profileMode:
