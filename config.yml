@@ -43,6 +43,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Tommy Tran
     subtitle: "System Administrator and Technical Writer"
+    imageUrl: "/cortana.png"
     buttons:
       - name: About
         url: about
