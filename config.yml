@@ -37,6 +37,7 @@ params:
 
   label:
     text: "Tommy Tran"
+    icon: "/cortana.png"
 
   # profile-mode
   profileMode:
