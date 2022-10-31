@@ -58,6 +58,8 @@ params:
       url: "https://github.com/tommytran732"
     - name: gitea
       url: "https://git.tommytran.io/tomster"
+    - name: phone
+      url: "/contact/#signal"
     - name: matrix
       url: "https://matrix.to/#/@tommy:arcticfoxes.net"
     - name: twitter

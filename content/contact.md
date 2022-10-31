@@ -5,16 +5,24 @@ date: 2022-09-02
 
 ![Matrix](/images/matrix.jpg)
 
-I highly recommend that you contact me via Matrix, so we could take advantage of their end to end encryption. My Matrix is [@tommy:arcticfoxes.net](https://matrix.to/#/@tommy:arcticfoxes.net).
+## Signal
 
-In case you do not have a Matrix account, you can sign up for one on my homeserver [arcticfoxes.net](https://arcticfoxes.net) or on [matrix.org](https://app.element.io). Alternatively, check out [joinmatrix.org](https://joinmatrix.org/servers/) for a list of public homeservers. I do not ask for your email address or any personal information for registration on [arcticfoxes.net](https://arcticfoxes.net). All you need to provide is a username and password.
+The best way to contact me is to use [Signal](https://signalapp.com). My Signal number is +1 4153666350. Note that this number is for Signal only - please do not call or send me SMS/MMS/RCS messages.
+
+## Matrix
+
+You can also contact me via Matrix. My account is [@tommy:arcticfoxes.net](https://matrix.to/#/@tommy:arcticfoxes.net). If you do not have a an account, you can sign up for one on my homeserver [arcticfoxes.net](https://arcticfoxes.net). I do not ask for your email address or any personal information for registration.
+
+## Email
 
 If you prefer to reach out to me via email, my address is contact@tommytran.io. You can use my [PGP Key](/tommy.asc) to encrypt the messages. Aliases:
 
 - tommy@privsec.dev
 - tommy@arcticfoxes.net
 
-I am available on Twitter as well:
+## Other Accounts
+
+Twitter as well:
 
 - [@TommyTran732](https://twitter.com/tommytran732)
 - [@PrivSec_Dev](https://twitter.com/privsec_dev)
