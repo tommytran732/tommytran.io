@@ -7,7 +7,7 @@ date: 2022-09-02
 
 ## Signal
 
-The best way to contact me is to use [Signal](https://signalapp.com). My Signal number is +1 4153666350. Note that this number is for Signal only - please do not call or send me SMS/MMS/RCS messages.
+The best way to contact me is to use [Signal](https://signalapp.com). My Signal number is +1 4153666350. Note that this number is for Signal only - please do not call or send me SMS/MMS/RCStommy.asc messages.
 
 ## Matrix
 
@@ -22,7 +22,7 @@ If you prefer to reach out to me via email, my address is contact@tommytran.io. 
 
 ## Other Accounts
 
-Twitter as well:
+Twitter:
 
 - [@TommyTran732](https://twitter.com/tommytran732)
 - [@PrivSec_Dev](https://twitter.com/privsec_dev)
