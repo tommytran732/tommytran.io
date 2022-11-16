@@ -5,13 +5,9 @@ date: 2022-09-02
 
 ![Matrix](/images/matrix.jpg)
 
-## Signal
-
-The best way to contact me is to use [Signal](https://signalapp.com). My Signal number is +1 4153666350. Note that this number is for Signal only - please do not call or send me SMS/MMS/RCStommy.asc messages.
-
 ## Matrix
 
-You can also contact me via Matrix. My account is [@tommy:arcticfoxes.net](https://matrix.to/#/@tommy:arcticfoxes.net). If you do not have a an account, you can sign up for one on my homeserver [arcticfoxes.net](https://arcticfoxes.net). I do not ask for your email address or any personal information for registration.
+The best way to contact me is through Matrix. My account is [@tommy:arcticfoxes.net](https://matrix.to/#/@tommy:arcticfoxes.net). If you do not have a an account, you can sign up for one on my homeserver [arcticfoxes.net](https://arcticfoxes.net). I do not ask for your email address or any personal information for registration.
 
 ## Email
 
