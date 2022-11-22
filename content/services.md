@@ -8,6 +8,7 @@ date: 2022-09-02
 I run some public services that you could use:
 
 - [ArcticFoxes.net](https://arcticfoxes.net), a small Matrix homeserver for cool nerds to hang around. Registration is open.
+- [ONC Converter](https://onc.arcticfoxes.net), a dark themed version of Thomkeh's [ovpn2onc](https://github.com/thomkeh/ovpn2onc) to convert OpenVPN configuration files to ChromeOS Network Configuration files.
 
 - My own [Gitea instance](https://git.tommytran.io). It currently is a mirror of my public repositories and a few other projects that I find interesting. Registration is closed.
 
