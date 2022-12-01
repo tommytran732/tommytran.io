@@ -14,5 +14,11 @@
 /*.xml
   Content-Security-Policy : default-src 'none'; img-src 'self' data: https://www.w3.org/; style-src 'self' 'unsafe-inline'; block-all-mixed-content; base-uri 'none'
 
+/*.png
+  Cross-Origin-Resource-Policy : cross-origin
+
+/*.jpg
+  Cross-Origin-Resource-Policy : cross-origin
+
 /.well-known/openpgpkey/hu/*
   Access-Control-Allow-Origin: *
