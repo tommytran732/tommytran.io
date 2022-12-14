@@ -11,10 +11,10 @@ The best way to contact me is through Matrix. My account is [@tommy:arcticfoxes.
 
 ## Email
 
-If you prefer to reach out to me via email, my address is contact@tommytran.io. You can use my [PGP Key](/tommy.asc) to encrypt the messages. Aliases:
+If you prefer to reach out to me via email, my address is [contact@tommytran.io](mailto:contact@tommytran.io). You can use my [PGP Key](/tommy.asc) or [S/MIME Key](/tommy.crt) to encrypt the messages. Using PGP is preferable, as signing and encryption is handled by my Yubikeys. Aliases:
 
-- tommy@privsec.dev
-- tommy@arcticfoxes.net
+- [tommy@privsec.dev](mailto:tommy@privsec.dev)
+- [tommy@arcticfoxes.net](mailto:tommy@arcticfoxes.net)
 
 ## Other Accounts
 

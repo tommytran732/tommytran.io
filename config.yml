@@ -52,6 +52,8 @@ params:
         url: contact
       - name: PGP
         url: tommy.asc
+      - name: S/MIME
+        url: tommy.crt
 
   socialIcons:
     - name: github
