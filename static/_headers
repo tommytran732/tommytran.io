@@ -9,7 +9,6 @@
   Cross-Origin-Resource-Policy : same-origin
   Cross-Origin-Embedder-Policy : require-corp
   # Cross-Origin-Opener-Policy : same-origin
-  Expect-CT: enforce, max-age=63072000
 
 /*.xml
   Content-Security-Policy : default-src 'none'; img-src 'self' data: https://www.w3.org/; style-src 'self' 'unsafe-inline'; block-all-mixed-content; base-uri 'none'
