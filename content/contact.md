@@ -18,6 +18,9 @@ If you prefer to reach out to me via email, my address is [contact@tommytran.io]
 
 ## Other Accounts
 
+Google (Meet, Mailing List):
+- [contact@tommytran.io](mailto:contact@tommytran.io)
+
 Twitter:
 
 - [@TommyTran732](https://twitter.com/tommytran732)
