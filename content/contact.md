@@ -9,6 +9,10 @@ date: 2022-09-02
 
 The best way to contact me is through Matrix. My account is [@tommy:arcticfoxes.net](https://matrix.to/#/@tommy:arcticfoxes.net). If you do not have a an account, you can sign up for one on my homeserver [arcticfoxes.net](https://arcticfoxes.net). I do not ask for your email address or any personal information for registration.
 
+## Telegram
+
+My Telegram is [TommyTran732](https://t.me/tommytran732). I do not check it as often as I do with Matrix. When contacting me, please use the [Secret Chat](https://telegram.org/faq#q-how-do-i-start-a-secret-chat) feature.
+
 ## Email
 
 If you prefer to reach out to me via email, my address is [contact@tommytran.io](mailto:contact@tommytran.io). You can use my [PGP Key](/tommy.asc) or [S/MIME Key](/tommy.crt) to encrypt the messages. Using PGP is preferable, as signing and encryption is handled by my Yubikeys. Aliases:

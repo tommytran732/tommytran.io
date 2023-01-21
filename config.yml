@@ -62,10 +62,12 @@ params:
       url: "https://git.tommytran.io/tomster"
     - name: matrix
       url: "https://matrix.to/#/@tommy:arcticfoxes.net"
-    - name: twitter
-      url: "https://twitter.com/tommytran732"
+    - name: telegram
+      url: "https://t.me/tommytran732"
     - name: email
       url: "mailto:contact@tommytran.io"
+    - name: twitter
+      url: "https://twitter.com/tommytran732"
     - name: youtube
       url: "https://www.youtube.com/channel/UCxm1CqMnCCj5byfXyb8C6_g"
 
