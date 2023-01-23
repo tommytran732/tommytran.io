@@ -5,7 +5,7 @@ date: 2022-09-02
 
 ![rchsa](/images/rhcsa.png)
 
-I am graduating in a few months and I am looking for a full-time sysadmin job. If you are interested in hiring me, please send me an email at contact@tommytran.io.
+I am looking for a full-time sysadmin job. If you are interested in hiring me, please send me an email at contact@tommytran.io.
 
 I will not be posting my full resume here for privacy reasons, but here are the the certifications I have gotten so far:
 
