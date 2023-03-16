@@ -61,7 +61,7 @@ params:
     - name: gitea
       url: "https://git.tommytran.io/Tomster"
     - name: matrix
-      url: "https://matrix.to/#/@tommy:arcticfoxes.net"
+      url: "https://element.arcticfoxes.net/#/@tommy:arcticfoxes.net"
     - name: telegram
       url: "https://t.me/tommytran732"
     - name: email
