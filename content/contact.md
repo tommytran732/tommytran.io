@@ -7,7 +7,7 @@ date: 2022-09-02
 
 ## Matrix
 
-The best way to contact me is through Matrix. My account is [@tommy:arcticfoxes.net](https://element.arcticfoxes.net/#/@tommy:arcticfoxes.net). If you do not have a an account, you can sign up for one on my homeserver [arcticfoxes.net](https://arcticfoxes.net). I do not ask for your email address or any personal information for registration.
+The best way to contact me is through Matrix. My account is [@tommy:arcticfoxes.net](https://invite.arcticfoxes.net/#/@tommy:arcticfoxes.net). If you do not have a an account, you can sign up for one on my homeserver [arcticfoxes.net](https://arcticfoxes.net). I do not ask for your email address or any personal information for registration.
 
 ## Telegram
 
