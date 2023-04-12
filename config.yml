@@ -126,10 +126,6 @@ menu:
       name: Status
       url: https://status.tommytran.io/status/systems
       weight: 40
-    - identifier: Hire Me!
-      name: Hire Me!
-      url: /hire-me/
-      weight: 50
      
 
 privacy:
