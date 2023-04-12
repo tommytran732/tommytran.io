@@ -50,10 +50,6 @@ params:
         url: about
       - name: Contact
         url: contact
-      - name: PGP
-        url: tommy.asc
-      - name: S/MIME
-        url: tommy.crt
 
   socialIcons:
     - name: github
@@ -64,12 +60,10 @@ params:
       url: "https://invite.arcticfoxes.net/#/@tommy:arcticfoxes.net"
     - name: telegram
       url: "https://t.me/tommytran732"
-    - name: email
-      url: "mailto:contact@tommytran.io"
-    - name: mastodon
-      url: "https://grapheneos.social/@Tommy"
     - name: twitter
       url: "https://twitter.com/tommytran732"
+    - name: email
+      url: "mailto:contact@tommytran.io"
     - name: youtube
       url: "https://www.youtube.com/channel/UCxm1CqMnCCj5byfXyb8C6_g"
 
@@ -126,7 +120,14 @@ menu:
       name: Status
       url: https://status.tommytran.io/status/systems
       weight: 40
-     
+    - identifier: PGP
+      name: PGP
+      url: tommy.asc
+      weight: 50
+    - identifier: S/MIME
+      name: S/MIME
+      url: tommy.crt
+      weight: 60
 
 privacy:
   disqus:
