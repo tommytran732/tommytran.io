@@ -30,6 +30,9 @@ Twitter:
 - [@TommyTran732](https://twitter.com/tommytran732)
 - [@PrivSec_Dev](https://twitter.com/privsec_dev)
 
+Discord:
+- Tommy Tran#7282
+
 My Git accounts:
 - [GitHub](https://github.com/tommytran732)
 - [GitLab](https://gitlab.com/tommytran732) (inactive)
