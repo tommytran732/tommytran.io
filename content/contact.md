@@ -9,6 +9,10 @@ date: 2022-09-02
 
 The best way to contact me is through Matrix. My account is [@tommy:arcticfoxes.net](https://invite.arcticfoxes.net/#/@tommy:arcticfoxes.net). If you do not have a an account, you can sign up for one on my homeserver [arcticfoxes.net](https://arcticfoxes.net). I do not ask for your email address or any personal information for registration.
 
+## Session
+
+My Session ID is 05716939cd478d7f046c17b7ab8fd0638c7536c0a28db21bde3b093cc35d041e40.
+
 ## Telegram
 
 My Telegram is [TommyTran732](https://t.me/tommytran732). I do not check it as often as I do with Matrix. When contacting me, please use the [Secret Chat](https://telegram.org/faq#q-how-do-i-start-a-secret-chat) feature.
