@@ -16,6 +16,10 @@ You can scan the QR code here:
 
 ![Session ID](/images/session-id.png)
 
+## Apple
+
+My Apple ID is `contact@tommytran.io`. You can contact me using iMessage. Do not contact me using FaceTime, your calls will be automatically blocked because of [lockdown mode](https://support.apple.com/en-us/HT212650). Instead, please use [Google Meet](http://127.0.0.1:1313/contact/#other-accounts).
+
 ## Telegram
 
 My Telegram is [TommyTran732](https://t.me/tommytran732). I do not check it as often as I do with Matrix. When contacting me, please use the [Secret Chat](https://telegram.org/faq#q-how-do-i-start-a-secret-chat) feature.
@@ -32,13 +36,16 @@ If you prefer to reach out to me via email, my address is [contact@tommytran.io]
 Google (Meet, Mailing List):
 - [contact@tommytran.io](mailto:contact@tommytran.io)
 
+Discord:
+- Tommy Tran#7282
+
 Twitter:
 
 - [@TommyTran732](https://twitter.com/tommytran732)
 - [@PrivSec_Dev](https://twitter.com/privsec_dev)
 
-Discord:
-- Tommy Tran#7282
+Reddit:
+- [PrivSec_Dev](https://www.reddit.com/user/privsec_dev)
 
 My Git accounts:
 - [GitHub](https://github.com/tommytran732)
