@@ -11,7 +11,10 @@ The best way to contact me is through Matrix. My account is [@tommy:arcticfoxes.
 
 ## Session
 
-My Session ID is `05716939cd478d7f046c17b7ab8fd0638c7536c0a28db21bde3b093cc35d041e40`.
+My Session ID is `05d7daed7b753e78838f131c9160e21eb69194631dbf6799816a9109a0ef98a242`.
+You can scan the QR code here:
+
+![Session ID](/images/session-id.png)
 
 ## Telegram
 
