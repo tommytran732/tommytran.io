@@ -1,9 +1,9 @@
 baseURL: "https://tommytran.io"
-title: Tommy Tran
+title: Tommy Tran - System Administrator and Technical Writer
 theme: WonderMod
-copyright: '©Thien Tran 2021-2022'
+copyright: '©Thien Tran 2021-2023'
 enableRobotsTXT: true
-#enableGitInfo: true
+enableGitInfo: true
 
 minify:
   disableXML: true
@@ -29,35 +29,37 @@ params:
   assets:
     disableHLJS: true
     disableFingerprinting: false
-    favicon: "/favicon/favicon.ico"
-    favicon16x16: "/favicon/favicon-16x16.png"
-    favicon32x32: "/favicon/favicon-32x32.png"
-    apple_touch_icon: "/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "/favicon/safari-pinned-tab.svg"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
-    text: "TommyTran.io"
+    text: "Tommy Tran"
+    icon: "/cortana.png"
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Tommy Tran
     subtitle: "System Administrator and Technical Writer"
+    imageUrl: "/cortana.png"
     buttons:
       - name: About
         url: about
       - name: Contact
         url: contact
-      - name: PGP Key
-        url: gpg.asc
 
   socialIcons:
     - name: github
       url: "https://github.com/tommytran732"
     - name: gitea
-      url: "https://git.tommytran.io/tomster"
+      url: "https://git.tommytran.io/Tomster"
     - name: matrix
-      url: "https://matrix.to/#/@tommy:arcticfoxes.net"
+      url: "https://invite.arcticfoxes.net/#/@tommy:arcticfoxes.net"
+    - name: telegram
+      url: "https://t.me/tommytran732"
     - name: twitter
       url: "https://twitter.com/tommytran732"
     - name: email
@@ -110,13 +112,13 @@ menu:
       name: Projects
       url: /projects/
       weight: 20
-    - identifier: Services
-      name: Services
-      url: /services/
+    - identifier: Packages
+      name: Packages
+      url: /packages/
       weight: 30
-    - identifier: Hire Me!
-      name: Hire Me!
-      url: /hire-me/
+    - identifier: PGP
+      name: PGP
+      url: tommy.asc
       weight: 40
 
 privacy:
