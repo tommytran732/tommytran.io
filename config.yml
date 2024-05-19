@@ -17,7 +17,7 @@ params:
   keywords: [TommyTran732]
   defaultTheme: dark # dark, light
   disableThemeToggle: false
-  images: ["/cortana.png"]
+  images: ["/avatar.jpg"]
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -37,14 +37,14 @@ params:
 
   label:
     text: "Tommy Tran"
-    icon: "/cortana.png"
+    icon: "/avatar.jpg"
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Tommy Tran
     subtitle: "System Administrator and Technical Writer"
-    imageUrl: "/cortana.png"
+    imageUrl: "/avatar.jpg"
     buttons:
       - name: About
         url: about
