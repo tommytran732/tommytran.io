@@ -18,31 +18,36 @@ We focus on in-depth system configuration, security analysis, and software/hardw
 [ArcticFoxes.net](https://arcticfoxes.net) is a group of self hosted and federated services run by me. It consists of:
 
 - [A Matrix server](https://matrix.arcticfoxes.net) using my [hardened docker image](https://github.com/tommytran732/Synapse-Docker). I also have a [web client](https://element.arcticfoxes.net) and TURN server as accessories for the Matrix server.
-- [A Nitter instance](https://nitter.arcticfoxes.net)
 - [A OpenVPN to ONC converter](onc.arcticfoxes.net). This is a simpel fork of [thomkeh/ovpn2onc](https://github.com/thomkeh/ovpn2onc) with a dark theme.
 
 Most of the configurations and deployment files are available on [GitHub](https://github.com/ArcticFoxes-net).
 
-## Pterodactyl Script
+## Linux Setup Scripts
 
-![Pterodactyl](/images/pterodactyl.png)
+![Glitched Tux](/images/glitched-tux.jpg)
 
-The [Pterodactyl Script](https://github.com/tommytran732/Pterodactyl-Script) is a bash script I wrote to automate the fairly tedious installation process of the popuar Pterodactyl control panel. It comes with automatic SSL certificate generation using Certbot, MariaDB SSL, basic firewall configuration, Fail2ban, and optional phpMyAdmin support. With this script, a 30-40 minutes task for a seasoned system administrator could be completed in under 5 minutes. This is my most popular project to date, with over 150 stars on GitHub.
+These are setup scripts I run on my Linux systems, and serve as the basis for my other setups. You can adapt them to deploy yours. 
 
-## Arch Install Script
+Features include, but are not limited to:
+- Removal of unnecessary packages
+- Hardened boot parameters
+- Hardened sysctl settings
+- Kernel module blacklist from Whonix's [security-misc](https://github.com/Kicksecure/security-misc/blob/master/etc/modprobe.d/30_security-misc.conf)
+- Mac Address randomization for desktop installations
+- SSH client and server hardening
+- Installation of Hardened Malloc on Red Hat systems
+- Installation and configuration of Microsoft Edge policies for desktop installations
+- NTS setup
+- Firewall setup
 
-![Arch Linux](/images/archlinux.jpg)
-
-The Arch Setup Script is a script that I wrote to automate my Arch Linux installation which mimics openSUSE's setup with BTRFS and Snapper. At the time, there was no other installer that does this nicely because they all use the same flat layout as recommended in the Arch Wiki. The downside of using this layout is that snapper rollback does not work properly and the user has to get into the Arch ISO to manually rollback their system. This could be solved by using the openSUSE's layout for BTRFS, and I forked Easy Arch to do just that.
-
-Over time, I have been adding more security/privacy related settings by default (such as randomized MAC address, IPv6 Privacy, Apparmor, Kernel module blacklist, encrypted /boot). The project is still actively developed, and many of the changes I made are merged upstream as well.
 
 ## Fedora CoreOS Ignition Files
 
 ![Fedora CoreOS](/images/fedora-coreos.png)
 
-These are sample [Butane/Ingition configuration files](https://github.com/tommytran732/Fedora-CoreOS-Ignition) that you can adapt to quickly deploy a Fedora CoreOS server with the containers of your choice.
+These are sample [Butane/Ingition configuration files](https://github.com/tommytran732/Fedora-CoreOS-Ignition) that you can adapt to quickly deploy a Fedora CoreOS server with the containers of your choice. They share the same hardening as the Linux Setup Scripts.
 
-Out of the box, you will have a set of hardened boot parameters, sysctl settings, along with a set of kernel module blacklist from Whonix's [security-misc](https://github.com/Kicksecure/security-misc/blob/master/etc/modprobe.d/30_security-misc.conf). The configurations will also give you a basic setup with Firewalld, Fail2ban, seboolean, and NTS to tighten down security.
+On Fedora CoreOS, I have also included systemd services to:
+- Install and update gVisor at boot
+- Update containers in a Docker Compose stack once a week.
 
-I use these same configurations on my production servers.
