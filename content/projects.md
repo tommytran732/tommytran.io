@@ -26,7 +26,7 @@ Most of the configurations and deployment files are available on [GitHub](https:
 
 ![Glitched Tux](/images/glitched-tux.jpg)
 
-These are setup scripts I run on my Linux systems, and serve as the basis for my other setups. You can adapt them to deploy yours. 
+These are setup [scripts I run on my Linux systems](https://github.com/TommyTran732/Linux-Setup-Scripts), and serve as the basis for my other setups. You can adapt them to deploy yours. 
 
 Features include, but are not limited to:
 - Removal of unnecessary packages
@@ -40,7 +40,6 @@ Features include, but are not limited to:
 - NTS setup
 - Firewall setup
 
-
 ## Fedora CoreOS Ignition Files
 
 ![Fedora CoreOS](/images/fedora-coreos.png)
@@ -51,3 +50,10 @@ On Fedora CoreOS, I have also included systemd services to:
 - Install and update gVisor at boot
 - Update containers in a Docker Compose stack once a week.
 
+## Microsoft Egde Policies
+
+![Microsoft Edge](/images/microsoft-edge.png)
+
+These are Microsoft Edge enterprise for the most secure web browsing experience. 
+
+You can read through them [here](https://github.com/TommyTran732/Microsoft-Edge-Policies).
