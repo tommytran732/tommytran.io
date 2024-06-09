@@ -50,6 +50,13 @@ On Fedora CoreOS, I have also included systemd services to:
 - Install and update gVisor at boot
 - Update containers in a Docker Compose stack once a week.
 
+## Arch Setup Script
+![Arch Linux](/images/archlinux.jpg)
+
+The [Arch Setup Script](https://github.com/TommyTran732/Arch-Setup-Script) is a script that I wrote to automate my Arch Linux installation which mimics openSUSE's setup with BTRFS and Snapper. At the time, there was no other installer that does this nicely because they all use the same flat layout as recommended in the Arch Wiki. The downside of using this layout is that snapper rollback does not work properly and the user has to get into the Arch ISO to manually rollback their system. This could be solved by using the openSUSE's layout for BTRFS, and I forked Easy Arch to do just that.
+
+Over time, I have been adding more security/privacy related settings. Most them which are ported from the Linux Setup Scripts repo.
+
 ## Microsoft Egde Policies
 
 ![Microsoft Edge](/images/microsoft-edge.png)
