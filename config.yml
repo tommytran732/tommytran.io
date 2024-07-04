@@ -1,7 +1,7 @@
 baseURL: "https://tommytran.io"
-title: Tommy Tran - System Administrator and Technical Writer
+title: Tommy Tran - System Administrator
 theme: WonderMod
-copyright: '©Thien Tran 2021-2023'
+copyright: '©Thien Tran 2021-2024'
 enableRobotsTXT: true
 enableGitInfo: true
 
@@ -13,11 +13,11 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   author: Tommy
   # author: ["Me", "You"] # multiple authors
-  description: System Administrator and Technical Writer
+  description: System Administrator
   keywords: [TommyTran732]
   defaultTheme: dark # dark, light
   disableThemeToggle: false
-  images: ["/avatar.jpg"]
+  images: ["/avatar.png"]
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -37,14 +37,14 @@ params:
 
   label:
     text: "Tommy Tran"
-    icon: "/avatar.jpg"
+    icon: "/avatar.png"
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Tommy Tran
     subtitle: "System Administrator and Technical Writer"
-    imageUrl: "/avatar.jpg"
+    imageUrl: "/avatar.png"
     buttons:
       - name: About
         url: about
