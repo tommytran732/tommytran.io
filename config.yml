@@ -45,11 +45,6 @@ params:
     title: Tommy Tran
     subtitle: "System Administrator and Technical Writer"
     imageUrl: "/avatar.png"
-    buttons:
-      - name: About
-        url: about
-      - name: Contact
-        url: contact
 
   socialIcons:
     - name: github
