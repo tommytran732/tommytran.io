@@ -11,6 +11,14 @@ date: 2022-09-02
 
 We focus on in-depth system configuration, security analysis, and software/hardware recommendations. Our site is based on technical merits, not ideologies and politics.
 
+## Polarix Containers
+
+![Polarix Containers](/images/containers.jpg)
+
+Polarix Containers is a collection of OCI containers aiming to improve security over upstream builds.
+
+Some containers are simple daily rebuilds of upstream containers. Others are remade from scratch with Alpine Linux/Red Hat UBI and unprivileged users. hardened_malloc is included most builds.
+
 ## ArcticFoxes.net
 
 ![ArcticFoxes.net](/images/arcticfoxes.png)
