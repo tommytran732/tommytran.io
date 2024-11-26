@@ -15,7 +15,7 @@ We focus on in-depth system configuration, security analysis, and software/hardw
 
 ![Polarix Containers](/images/containers.jpg)
 
-Polarix Containers is a collection of OCI containers aiming to improve security over upstream builds.
+[Polarix Containers](https://github.com/Polarix-Containers) is a collection of OCI containers aiming to improve security over upstream builds.
 
 Some containers are simple daily rebuilds of upstream containers. Others are remade from scratch with Alpine Linux/Red Hat UBI and unprivileged users. hardened_malloc is included most builds.
 
@@ -25,8 +25,10 @@ Some containers are simple daily rebuilds of upstream containers. Others are rem
 
 [ArcticFoxes.net](https://arcticfoxes.net) is a group of self hosted and federated services run by me. It consists of:
 
-- [A Matrix server](https://matrix.arcticfoxes.net) using my [hardened docker image](https://github.com/tommytran732/Synapse-Docker). I also have a [web client](https://element.arcticfoxes.net) and TURN server as accessories for the Matrix server.
+- [A Matrix server](https://matrix.arcticfoxes.net).
 - [A OpenVPN to ONC converter](onc.arcticfoxes.net). This is a simple fork of [thomkeh/ovpn2onc](https://github.com/thomkeh/ovpn2onc) with a dark theme.
+
+It also formerly included a Nitter instance and the a Signal TLS Proxy.
 
 Most of the configurations and deployment files are available on [GitHub](https://github.com/ArcticFoxes-net).
 
