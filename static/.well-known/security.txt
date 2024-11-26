@@ -4,13 +4,13 @@ Hash: SHA256
 Contact: https://matrix.to/#/@tommy:arcticfoxes.net
 Contact: mailto:contact@tommytran.io
 Expires: 2028-01-01T00:00:00.000Z
-Encryption: https://tommytran.io/.well-known/tommy.asc
+Encryption: https://tommytran.io/tommy.asc
 Preferred-Languages: en-US, vi-VN
-Canonical: https://tommytran.io/security.txt
+Canonical: https://tommytran.io/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQR7t0D0xuMPQ9QHbwNVXJAqNOyWjwUCZ0WhGgAKCRBVXJAqNOyW
-j+QdAQCjbzvTRsR5q94lMBjLgDy0FRkArJVV67xPBZ8zQLW5WAEA610lRzBPr2y2
-HelCR4lc93J5YvMX3yCyffWxavwClwg=
-=cMMK
+iHUEARYIAB0WIQR7t0D0xuMPQ9QHbwNVXJAqNOyWjwUCZ0W8GAAKCRBVXJAqNOyW
+j5OuAP9KIR8b6U8o0/4brFKsr+PPJeIdbWuisrvh0uaEMB+OpQD/do5IxxZtGEEC
+9wc7VsMFgjhjYX0xDSAfnHaYsw8Cuw4=
+=5kZo
 -----END PGP SIGNATURE-----
