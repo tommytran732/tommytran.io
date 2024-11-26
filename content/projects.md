@@ -17,7 +17,7 @@ We focus on in-depth system configuration, security analysis, and software/hardw
 
 [Polarix Containers](https://github.com/Polarix-Containers) is a collection of OCI containers aiming to improve security over upstream builds.
 
-Some containers are simple daily rebuilds of upstream containers. Others are remade from scratch with Alpine Linux/Red Hat UBI and unprivileged users. hardened_malloc is included most builds.
+Some containers are simple daily rebuilds of upstream containers. Others are remade from scratch with Alpine Linux/Red Hat UBI and unprivileged users. hardened_malloc is included in most builds.
 
 ## ArcticFoxes.net
 
@@ -28,7 +28,7 @@ Some containers are simple daily rebuilds of upstream containers. Others are rem
 - [A Matrix server](https://matrix.arcticfoxes.net).
 - [A OpenVPN to ONC converter](onc.arcticfoxes.net). This is a simple fork of [thomkeh/ovpn2onc](https://github.com/thomkeh/ovpn2onc) with a dark theme.
 
-It also formerly included a Nitter instance and the a Signal TLS Proxy.
+It also formerly included Nitter and Signal TLS Proxy instances.
 
 Most of the configurations and deployment files are available on [GitHub](https://github.com/ArcticFoxes-net).
 
@@ -42,7 +42,7 @@ Features include, but are not limited to:
 - Removal of unnecessary packages
 - Hardened boot parameters
 - Hardened sysctl settings
-- Kernel module blacklist from Whonix's [security-misc](https://github.com/Kicksecure/security-misc/blob/master/etc/modprobe.d/30_security-misc.conf)
+- Kernel module blacklist from [secureblue](https://github.com/secureblue/secureblue)
 - Mac Address randomization for desktop installations
 - SSH client and server hardening
 - Installation of Hardened Malloc on Red Hat systems
