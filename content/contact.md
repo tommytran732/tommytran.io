@@ -36,11 +36,10 @@ Reddit:
 My Git accounts:
 - [GitHub](https://github.com/tommytran732)
 - [GitLab](https://gitlab.com/tommytran732) (inactive)
-- [Gitea](https://git.tommytran.io/tomster)
 
 Packaging:
 - [AUR](https://aur.archlinux.org/account/TommyTran732) (login required)
 - [Docker Hub](https://hub.docker.com/u/tommytran732) (inactive)
-- [Quay.io](https://quay.io/tommytran732)
+- [Quay.io](https://quay.io/tommytran732) (inactive)
 
 Please by wary of anyone claiming to be me or using the handle "TommyTran732" reaching out to you. Chances are, they are an impersonator. You can always contact me via Matrix or Email for identity verification.
