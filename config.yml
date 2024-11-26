@@ -54,8 +54,6 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/tommytran732"
-    - name: gitea
-      url: "https://git.tommytran.io/Tomster"
     - name: matrix
       url: "https://invite.arcticfoxes.net/#/@tommy:arcticfoxes.net"
     - name: telegram
@@ -104,22 +102,26 @@ markup:
 
 menu:
   main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
     - identifier: Blog
       name: Blog
       url: https://privsec.dev
-      weight: 10
+      weight: 20
+    - identifier: Contact
+      name: Contact
+      url: /contact/
+      weight: 30
     - identifier: Projects
       name: Projects
       url: /projects/
-      weight: 20
-    - identifier: Packages
-      name: Packages
-      url: /packages/
-      weight: 30
+      weight: 40
     - identifier: PGP
       name: PGP
       url: tommy.asc
-      weight: 40
+      weight: 50
 
 privacy:
   disqus:
