@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eu
+set -euo pipefail
 
 curl -L -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "browser_download_url.*extended.*linux-amd64.tar.gz" | cut -d : -f 2,3 | sed 's/"//g' | xargs wget
 
