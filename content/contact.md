@@ -15,10 +15,12 @@ My Telegram is [TommyTran732](https://t.me/tommytran732). I do not check it as o
 
 ## Email
 
-If you prefer to reach out to me via email, my address is [contact@tommytran.io](mailto:contact@tommytran.io). I do not use PGP for emails. Aliases:
+If you prefer to reach out to me via email, my address is [contact@tommytran.io](mailto:contact@tommytran.io). Aliases:
 
 - [tommy@privsec.dev](mailto:tommy@privsec.dev)
 - [tommy@arcticfoxes.net](mailto:tommy@arcticfoxes.net)
+
+Please use encryption if possible. My PGP key is available [here](https://tommytran.io/tommy.asc).
 
 ## Other Accounts
 
